@@ -1,0 +1,10 @@
+.job-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Centers JobItem components horizontally */
+    width: 100%;
+    /* Ensures it takes full width of the container */
+    gap: 20px;
+    /* Space between job items */
+}
